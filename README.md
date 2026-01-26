@@ -1,5 +1,5 @@
-# Hi, I’m Talha Arjumand  
-AI Systems & Backend Engineer | AI Agents · Optimization Systems · Node.js · Docker · RabbitMQ · PostgreSQL · Blockchain  
+# I’m Talha Arjumand  
+AI Engineer, Blockchain and Backend Developer | AI Agents · Optimization Systems · Node.js · Docker · RabbitMQ · PostgreSQL · Blockchain  
 
 ---
 
