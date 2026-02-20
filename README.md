@@ -4,18 +4,18 @@ AI Engineer, Blockchain and Backend Developer | AI Agents · Optimization System
 ---
 
 ### About Me
-I’m an engineer with **4+ years of hands-on experience** building backend systems and **AI-driven architectures** with a strong focus on reliability, determinism, and real-world deployment.
+I’m an engineer with **4+ years of hands on experience** building backend systems and **AI driven architectures** with a strong focus on reliability, determinism, and real world deployment.
 
-In blockchain systems, I specialize in asynchronous transaction flows, wallet lifecycle management, gas estimation, nonce handling, and event driven state synchronization between on-chain smart contracts and off-chain backend services.
+In blockchain systems, I specialize in asynchronous transaction flows, wallet lifecycle management, gas estimation, nonce handling, and event driven state synchronization between on chain smart contracts and off chain backend services.
 
 My work sits at the intersection of **AI systems, backend infrastructure, and distributed architectures**, where models, algorithms, and agents must operate inside production constraints.
 
-- Designed an **AI Optimization System** inspired by genetic algorithms, implementing bit-level encoding, crossover, mutation, and fitness-driven evolution for deterministic learning.
-- Built **agent-style workflows** where AI components interact with backend services, queues, and stateful systems.
-- Built **AidChain**, a production-grade platform combining backend services, message queues, and blockchain infrastructure for transparent humanitarian aid distribution.
+- Designed an **AI Optimization System** inspired by genetic algorithms, implementing bit level encoding, crossover, mutation, and fitness-driven evolution for deterministic learning.
+- Built **agent style workflows** where AI components interact with backend services, queues, and stateful systems.
+- Built **AidChain**, a production grade platform combining backend services, message queues, and blockchain infrastructure for transparent humanitarian aid distribution.
 - Developed a **deterministic blockchain prototype in Go**, implementing block validation, Merkle trees, and consensus logic from first principles.
 
-I focus on **engineering AI systems end-to-end** — from algorithms and agents to APIs, queues, and deployment.
+I focus on **engineering AI systems end to end**  from algorithms and agents to APIs, queues, and deployment.
 
 ---
 
