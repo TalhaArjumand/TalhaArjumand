@@ -6,6 +6,8 @@ AI Engineer, Blockchain and Backend Developer | AI Agents · Optimization System
 ### About Me
 I’m an engineer with **4+ years of hands-on experience** building backend systems and **AI-driven architectures** with a strong focus on reliability, determinism, and real-world deployment.
 
+In blockchain systems, I specialize in asynchronous transaction flows, wallet lifecycle management, gas estimation, nonce handling, and event driven state synchronization between on-chain smart contracts and off-chain backend services.
+
 My work sits at the intersection of **AI systems, backend infrastructure, and distributed architectures**, where models, algorithms, and agents must operate inside production constraints.
 
 - Designed an **AI Optimization System** inspired by genetic algorithms, implementing bit-level encoding, crossover, mutation, and fitness-driven evolution for deterministic learning.
