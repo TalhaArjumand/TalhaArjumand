@@ -4,7 +4,7 @@
 
 # Talha Arjumand
 
-**AI Systems Engineer | Backend and Blockchain Developer**
+**AI Systems Engineer | Agentic AI, Backend, and Blockchain Developer**
 
 I build deterministic AI systems, event-driven backends, and blockchain-integrated platforms that have to survive real production constraints.
 
@@ -26,7 +26,7 @@ I build deterministic AI systems, event-driven backends, and blockchain-integrat
 
 ## Focus Areas
 
-- AI optimization systems and agent-style workflows
+- agentic AI systems, optimization workflows, and autonomous orchestration
 - backend APIs, queue-driven processing, and stateful services
 - blockchain transaction coordination, wallet lifecycle management, and event synchronization
 - deployment-minded engineering with clean interfaces, failure handling, and deterministic execution
@@ -78,7 +78,7 @@ AidChain is a multi-repository platform for transparent humanitarian aid distrib
 | [aidchain-beneficiary](https://github.com/AidChainPlatform/aidchain-beneficiary) | beneficiary mobile client | Flutter, Dart |
 | [aidchain-vendor](https://github.com/AidChainPlatform/aidchain-vendor) | vendor mobile client | Flutter, Dart |
 
-## AI and Blockchain R&D
+## AI, Agentic Workflows, and Blockchain R&D
 
 <p>
   <a href="https://github.com/TalhaArjumand/binary-encoded-genetic-algorithm-timetable-scheduler"><img src="https://img.shields.io/badge/genetic%20algorithm-timetable%20scheduler-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="genetic algorithm badge" /></a>
@@ -90,22 +90,39 @@ AidChain is a multi-repository platform for transparent humanitarian aid distrib
 | [binary-encoded-genetic-algorithm-timetable-scheduler](https://github.com/TalhaArjumand/binary-encoded-genetic-algorithm-timetable-scheduler) | optimization and search-oriented work using binary encoding and genetic algorithm concepts |
 | [ai-blockchain](https://github.com/TalhaArjumand/ai-blockchain) | exploratory work at the intersection of AI and blockchain systems |
 
-## Engineering Protocol
+## Agentic AI and Autonomous Workflows
 
-These are the rules I optimize for when building or evaluating systems:
+<p>
+  <a href="https://github.com/TalhaArjumand/Agentic-Software-Engineering-Team"><img src="https://img.shields.io/badge/agentic%20software-engineering%20team-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="agentic software engineering team badge" /></a>
+  <a href="https://github.com/TalhaArjumand/crewai-stock-picker"><img src="https://img.shields.io/badge/crewai-stock%20picker-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="crewai stock picker badge" /></a>
+</p>
 
-- use canonical, verified links instead of placeholder or stale references
-- treat documentation as part of the system, not post-project decoration
-- keep public repositories sanitized and free of runtime secrets
-- separate system-overview repositories from service-level implementation repos
-- design AI, queue, and blockchain workflows for determinism, observability, and recovery
-- prefer explicit state transitions and debuggable flows over implicit magic
+| Project | Description |
+| --- | --- |
+| [Agentic-Software-Engineering-Team](https://github.com/TalhaArjumand/Agentic-Software-Engineering-Team) | agentic software engineering experiments around multi-step execution, repository work, and autonomous development flows |
+| [crewai-stock-picker](https://github.com/TalhaArjumand/crewai-stock-picker) | agent-style stock research and selection workflow using CrewAI-oriented orchestration patterns |
+
+## Lessons Turned Into Protocol
+
+These are the operating rules I keep after the mistakes and gaps we ran into during setup, publishing, and profile work:
+
+- verify every public link, asset, and repository target before publishing it
+- avoid brittle third-party embeds when a stable badge, table, or direct link is sufficient
+- check repo permissions and auth path first before assuming a push or connector flow will work
+- sanitize repositories before publication: no runtime `.env` files, no secrets, no accidental local artifacts
+- separate portfolio snapshots from production or shared-history repositories
+- treat documentation as part of the engineering surface, not as afterthought polish
+- design profiles and interfaces with hierarchy and geometry first: one dominant idea, clear scan order, no broken visual dependencies
+- engineer AI, queue, and blockchain systems for deterministic behavior, observability, and recoverable failure states
+- prefer explicit state transitions, explicit protocols, and verifiable outputs over implicit magic
+- cover edge cases before presentation: links, embeds, credentials, secrets, rendering stability, and fallback behavior
 
 ## Current Direction
 
 I am most interested in roles and collaborations around:
 
 - AI systems engineering
+- agentic AI and autonomous software workflows
 - agentic AI with real backend integrations
 - backend-heavy AI platforms
 - distributed systems with reliability and observability requirements
