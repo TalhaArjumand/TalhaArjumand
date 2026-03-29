@@ -1,47 +1,119 @@
-# I’m Talha Arjumand  
-AI Engineer, Blockchain and Backend Developer | AI Agents · Optimization Systems · Node.js · Docker · RabbitMQ · PostgreSQL · Blockchain  
+<table>
+<tr>
+<td width="62%" valign="top">
 
----
+# Talha Arjumand
 
-### About Me
-I’m an engineer with **4+ years of hands on experience** building backend systems and **AI driven architectures** with a strong focus on reliability, determinism, and real world deployment.
+**AI Systems Engineer | Backend and Blockchain Developer**
 
-In blockchain systems, I specialize in asynchronous transaction flows, wallet lifecycle management, gas estimation, nonce handling, and event driven state synchronization between on chain smart contracts and off chain backend services.
+I build deterministic AI systems, event-driven backends, and blockchain-integrated platforms that have to survive real production constraints.
 
-My work sits at the intersection of **AI systems, backend infrastructure, and distributed architectures**, where models, algorithms, and agents must operate inside production constraints.
+- 4+ years building backend and distributed systems
+- strongest focus on AI agents, optimization systems, queues, transaction orchestration, and reliability
+- interested in systems where models, algorithms, and services must behave predictably under load and failure
 
-- Designed an **AI Optimization System** inspired by genetic algorithms, implementing bit level encoding, crossover, mutation, and fitness-driven evolution for deterministic learning.
-- Built **agent style workflows** where AI components interact with backend services, queues, and stateful systems.
-- Built **AidChain**, a production grade platform combining backend services, message queues, and blockchain infrastructure for transparent humanitarian aid distribution.
-- Developed a **deterministic blockchain prototype in Go**, implementing block validation, Merkle trees, and consensus logic from first principles.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliowebsite-blond-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20Arjumand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-arjumand-49703220a)
+[![GitHub](https://img.shields.io/badge/GitHub-TalhaArjumand-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalhaArjumand)
+[![AidChain](https://img.shields.io/badge/AidChain-Platform-0b3b5a?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AidChainPlatform/aidchain-platform)
 
-I focus on **engineering AI systems end to end**  from algorithms and agents to APIs, queues, and deployment.
+</td>
+<td width="38%" align="right">
+  <img src="./assets/codinggif.gif" alt="Coding animation" width="320" />
+</td>
+</tr>
+</table>
 
----
+## Focus Areas
 
-### Tech Stack
-**Languages:** Python · Node.js · Go · Solidity  
-**AI / Systems:** Optimization Algorithms · Genetic Algorithms · Agent Workflows  
-**Backend:** Express.js · PostgreSQL · Docker · RabbitMQ  
-**Blockchain:** Hyperledger Besu · Smart Contracts · Web3.js · Ethers.js  
-**DevOps:** Docker Compose · Linux · CI/CD · GitHub Actions  
+- AI optimization systems and agent-style workflows
+- backend APIs, queue-driven processing, and stateful services
+- blockchain transaction coordination, wallet lifecycle management, and event synchronization
+- deployment-minded engineering with clean interfaces, failure handling, and deterministic execution
 
----
+## Core Stack
 
-### Featured Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [AI Optimization System](https://github.com/TalhaArjumand/secular-ai-optimization-system) | Experimental AI system using genetic algorithms for deterministic optimization | Python, NumPy |
-| [AidChain – Distributed Platform](https://github.com/TalhaArjumand/aidchain_blockchain) | Production-grade platform combining backend services, queues, and blockchain for transparent aid distribution | Node.js, RabbitMQ, PostgreSQL, Hyperledger Besu |
-| [Deterministic Blockchain (Golang)](https://github.com/TalhaArjumand/deterministic-blockchain) | Blockchain prototype built from scratch with deterministic consensus and cryptographic validation | Golang, Cryptography |
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="42" height="42" />
+</p>
 
----
+**Languages:** Python, Node.js, Go, Solidity  
+**AI / Systems:** Optimization Algorithms, Genetic Algorithms, Agent Workflows  
+**Backend:** Express.js, PostgreSQL, Docker, RabbitMQ  
+**Blockchain:** Hyperledger Besu, Smart Contracts, Web3.js, ethers.js  
+**DevOps:** Docker Compose, Linux, CI/CD, GitHub Actions
 
-### Let’s Connect
-- LinkedIn: https://linkedin.com/in/talha-arjumand-49703220a  
-- GitHub: https://github.com/TalhaArjumand  
-- Open to: **AI Systems Engineering · Agentic AI · Backend-heavy AI platforms**
+## AidChain Platform
 
----
+AidChain is a multi-repository platform for transparent humanitarian aid distribution. It combines backend services, queue orchestration, blockchain infrastructure, operator dashboards, and mobile clients.
 
-*"AI is only valuable when it behaves predictably inside real systems."*
+<p>
+  <a href="https://github.com/AidChainPlatform/aidchain-platform"><img src="https://img.shields.io/badge/aidchain--platform-architecture-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-platform badge" /></a>
+  <a href="https://github.com/AidChainPlatform/aid-api"><img src="https://img.shields.io/badge/aid--api-backend-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aid-api badge" /></a>
+  <a href="https://github.com/AidChainPlatform/aidchain-blockchain"><img src="https://img.shields.io/badge/blockchain-Besu%20%2B%20contracts-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-blockchain badge" /></a>
+</p>
+<p>
+  <a href="https://github.com/AidChainPlatform/aidchain-ngo"><img src="https://img.shields.io/badge/ngo-portal-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-ngo badge" /></a>
+  <a href="https://github.com/AidChainPlatform/aidchain-admin"><img src="https://img.shields.io/badge/admin-console-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-admin badge" /></a>
+  <a href="https://github.com/AidChainPlatform/aidchain-beneficiary"><img src="https://img.shields.io/badge/beneficiary-mobile-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-beneficiary badge" /></a>
+  <a href="https://github.com/AidChainPlatform/aidchain-vendor"><img src="https://img.shields.io/badge/vendor-mobile-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="aidchain-vendor badge" /></a>
+</p>
+
+| Repository | Role | Stack |
+| --- | --- | --- |
+| [aidchain-platform](https://github.com/AidChainPlatform/aidchain-platform) | umbrella architecture repo and system entry point | Markdown, architecture docs |
+| [aid-api](https://github.com/AidChainPlatform/aid-api) | backend API, database orchestration, queue processing, blockchain coordination | Node.js, Express, PostgreSQL, RabbitMQ |
+| [aidchain-blockchain](https://github.com/AidChainPlatform/aidchain-blockchain) | Besu QBFT network, smart contracts, blockchain execution layer | Hyperledger Besu, Solidity, Hardhat |
+| [aidchain-ngo](https://github.com/AidChainPlatform/aidchain-ngo) | NGO portal for campaigns, beneficiaries, vendors, and market workflows | Nuxt 2, Vue 2 |
+| [aidchain-admin](https://github.com/AidChainPlatform/aidchain-admin) | platform administration console | Nuxt 3, Vue 3, TypeScript |
+| [aidchain-beneficiary](https://github.com/AidChainPlatform/aidchain-beneficiary) | beneficiary mobile client | Flutter, Dart |
+| [aidchain-vendor](https://github.com/AidChainPlatform/aidchain-vendor) | vendor mobile client | Flutter, Dart |
+
+## AI and Blockchain R&D
+
+<p>
+  <a href="https://github.com/TalhaArjumand/binary-encoded-genetic-algorithm-timetable-scheduler"><img src="https://img.shields.io/badge/genetic%20algorithm-timetable%20scheduler-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="genetic algorithm badge" /></a>
+  <a href="https://github.com/TalhaArjumand/ai-blockchain"><img src="https://img.shields.io/badge/ai--blockchain-research-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="ai-blockchain badge" /></a>
+</p>
+
+| Project | Description |
+| --- | --- |
+| [binary-encoded-genetic-algorithm-timetable-scheduler](https://github.com/TalhaArjumand/binary-encoded-genetic-algorithm-timetable-scheduler) | optimization and search-oriented work using binary encoding and genetic algorithm concepts |
+| [ai-blockchain](https://github.com/TalhaArjumand/ai-blockchain) | exploratory work at the intersection of AI and blockchain systems |
+
+## Engineering Protocol
+
+These are the rules I optimize for when building or evaluating systems:
+
+- use canonical, verified links instead of placeholder or stale references
+- treat documentation as part of the system, not post-project decoration
+- keep public repositories sanitized and free of runtime secrets
+- separate system-overview repositories from service-level implementation repos
+- design AI, queue, and blockchain workflows for determinism, observability, and recovery
+- prefer explicit state transitions and debuggable flows over implicit magic
+
+## Current Direction
+
+I am most interested in roles and collaborations around:
+
+- AI systems engineering
+- agentic AI with real backend integrations
+- backend-heavy AI platforms
+- distributed systems with reliability and observability requirements
+
+## Profile Snapshot
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaArjumand&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub streak" />
+</p>
+
+> "AI is only valuable when it behaves predictably inside real systems."
