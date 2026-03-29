@@ -102,21 +102,6 @@ AidChain is a multi-repository platform for transparent humanitarian aid distrib
 | [Agentic-Software-Engineering-Team](https://github.com/TalhaArjumand/Agentic-Software-Engineering-Team) | agentic software engineering experiments around multi-step execution, repository work, and autonomous development flows |
 | [crewai-stock-picker](https://github.com/TalhaArjumand/crewai-stock-picker) | agent-style stock research and selection workflow using CrewAI-oriented orchestration patterns |
 
-## Lessons Turned Into Protocol
-
-These are the operating rules I keep after the mistakes and gaps we ran into during setup, publishing, and profile work:
-
-- verify every public link, asset, and repository target before publishing it
-- avoid brittle third-party embeds when a stable badge, table, or direct link is sufficient
-- check repo permissions and auth path first before assuming a push or connector flow will work
-- sanitize repositories before publication: no runtime `.env` files, no secrets, no accidental local artifacts
-- separate portfolio snapshots from production or shared-history repositories
-- treat documentation as part of the engineering surface, not as afterthought polish
-- design profiles and interfaces with hierarchy and geometry first: one dominant idea, clear scan order, no broken visual dependencies
-- engineer AI, queue, and blockchain systems for deterministic behavior, observability, and recoverable failure states
-- prefer explicit state transitions, explicit protocols, and verifiable outputs over implicit magic
-- cover edge cases before presentation: links, embeds, credentials, secrets, rendering stability, and fallback behavior
-
 ## Current Direction
 
 I am most interested in roles and collaborations around:
