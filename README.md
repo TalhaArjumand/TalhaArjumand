@@ -112,4 +112,17 @@ I am most interested in roles and collaborations around:
 - backend-heavy AI platforms
 - distributed systems with reliability and observability requirements
 
+## Profile Snapshot
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=TalhaArjumand&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak snapshot" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalhaArjumand&theme=github_dark" alt="GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaArjumand&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center"><sub>Snapshot widgets can lag GitHub's native contribution graph by up to 24 hours.</sub></p>
+
 > "AI is only valuable when it behaves predictably inside real systems."
