@@ -112,10 +112,4 @@ I am most interested in roles and collaborations around:
 - backend-heavy AI platforms
 - distributed systems with reliability and observability requirements
 
-## Profile Snapshot
-
-<p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaArjumand&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub streak" />
-</p>
-
 > "AI is only valuable when it behaves predictably inside real systems."
