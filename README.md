@@ -115,12 +115,12 @@ I am most interested in roles and collaborations around:
 ## Profile Snapshot
 
 <p align="center">
-  <img width="49%" src="./assets/profile-metrics/streak.svg" alt="GitHub streak snapshot" />
-  <img width="49%" src="./assets/profile-metrics/summary.svg" alt="GitHub contribution summary" />
+  <img width="49%" src="https://raw.githubusercontent.com/TalhaArjumand/TalhaArjumand/main/assets/profile-metrics/streak.svg?v=20260409165610" alt="GitHub streak snapshot" />
+  <img width="49%" src="https://raw.githubusercontent.com/TalhaArjumand/TalhaArjumand/main/assets/profile-metrics/summary.svg?v=20260409165610" alt="GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img width="98%" src="./assets/profile-metrics/activity.svg" alt="GitHub contribution activity graph" />
+  <img width="98%" src="https://raw.githubusercontent.com/TalhaArjumand/TalhaArjumand/main/assets/profile-metrics/activity.svg?v=20260409165610" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center"><sub>Generated from authenticated GitHub data inside this repository. Native GitHub contribution calendar remains the source of truth.</sub></p>

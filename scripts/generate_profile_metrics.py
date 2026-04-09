@@ -5,6 +5,7 @@ import argparse
 import json
 import math
 import os
+import re
 import sys
 from dataclasses import dataclass
 from datetime import date, datetime, time, timedelta, timezone
@@ -392,6 +393,25 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+def update_readme_asset_urls(repo_root: Path, summary: dict[str, Any], username: str) -> None:
+    readme_path = repo_root / "README.md"
+    content = readme_path.read_text(encoding="utf-8")
+    stamp = datetime.fromisoformat(summary["generated_at"]).strftime("%Y%m%d%H%M%S")
+    base = f"https://raw.githubusercontent.com/{username}/{username}/main/assets/profile-metrics"
+    replacements = {
+        "streak.svg": f'{base}/streak.svg?v={stamp}',
+        "summary.svg": f'{base}/summary.svg?v={stamp}',
+        "activity.svg": f'{base}/activity.svg?v={stamp}',
+    }
+    for asset, target in replacements.items():
+        content = re.sub(
+            rf'src="[^"]*profile-metrics/{re.escape(asset)}(?:\?v=\d+)?"',
+            f'src="{target}"',
+            content,
+        )
+    readme_path.write_text(content, encoding="utf-8")
+
+
 def main() -> int:
     args = parse_args()
     output_dir = Path(args.output_dir)
@@ -416,6 +436,7 @@ def main() -> int:
     write_text(output_dir / "summary.svg", render_summary_svg(summary))
     write_text(output_dir / "activity.svg", render_activity_svg(calendar, days, summary))
     write_text(output_dir / "summary.json", json.dumps(json_safe_summary(summary), indent=2))
+    update_readme_asset_urls(Path.cwd(), summary, args.username)
     return 0
 
 
