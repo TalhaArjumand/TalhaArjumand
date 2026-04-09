@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution activity pending sync</title>
+  <desc id="desc">Authenticated contribution heatmap will appear here after the workflow runs.</desc>
+  <rect width="1120" height="280" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="32" y="44" fill="#f0f6fc" font-size="22" font-weight="700">Contribution Activity</text>
+  <text x="1088" y="44" fill="#8b949e" font-size="12" text-anchor="end">Awaiting first authenticated sync</text>
+  <text x="32" y="92" fill="#58a6ff" font-size="18" font-weight="700">This heatmap becomes repository-hosted after the first workflow run.</text>
+  <text x="32" y="120" fill="#8b949e" font-size="13">Once generated, it no longer depends on public third-party widget caches.</text>
+  <text x="32" y="148" fill="#8b949e" font-size="13">Private contribution visibility still depends on your profile settings and token access.</text>
+</svg>

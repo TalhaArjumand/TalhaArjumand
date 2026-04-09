@@ -1,0 +1,47 @@
+name: Update Profile Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate metrics assets
+        env:
+          PROFILE_METRICS_TOKEN: ${{ secrets.PROFILE_METRICS_TOKEN }}
+        run: |
+          test -n "$PROFILE_METRICS_TOKEN" || { echo "Missing PROFILE_METRICS_TOKEN secret"; exit 1; }
+          python scripts/generate_profile_metrics.py \
+            --username TalhaArjumand \
+            --timezone Asia/Karachi \
+            --output-dir assets/profile-metrics
+
+      - name: Commit generated assets
+        run: |
+          if git diff --quiet -- assets/profile-metrics; then
+            echo "No metrics changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-metrics
+          git commit -m "chore: refresh profile metrics"
+          git push
