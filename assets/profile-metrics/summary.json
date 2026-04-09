@@ -1,4 +1,18 @@
 {
-  "status": "pending_setup",
-  "message": "Add PROFILE_METRICS_TOKEN and run the Update Profile Metrics workflow."
+  "generated_at": "2026-04-09T16:56:10.533198+05:00",
+  "timezone": "Asia/Karachi",
+  "total_contributions": 1531,
+  "active_days": 354,
+  "average_per_active_day": 4.3,
+  "average_per_week": 28.9,
+  "busiest_day": {
+    "date": "2026-03-17",
+    "count": 70
+  },
+  "current_length": 4,
+  "current_start": "2026-04-06",
+  "current_end": "2026-04-09",
+  "longest_length": 317,
+  "longest_start": "2025-04-10",
+  "longest_end": "2026-02-20"
 }
