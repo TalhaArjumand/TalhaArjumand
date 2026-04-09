@@ -115,14 +115,14 @@ I am most interested in roles and collaborations around:
 ## Profile Snapshot
 
 <p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=TalhaArjumand&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak snapshot" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalhaArjumand&theme=github_dark" alt="GitHub contribution summary" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TalhaArjumand&theme=github_dark&utcOffset=5" alt="GitHub productive time summary" />
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaArjumand&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
-<p align="center"><sub>Snapshot cards are presentation-only. GitHub's native contribution calendar remains the source of truth for streaks and daily activity.</sub></p>
+<p align="center"><sub>GitHub's native contribution calendar remains the source of truth. Snapshot widgets may lag or compute streaks differently, especially around private contributions and timezone boundaries.</sub></p>
 
 > "AI is only valuable when it behaves predictably inside real systems."
