@@ -2,18 +2,18 @@
   <title id="title">GitHub streak snapshot</title>
   <desc id="desc">Current streak, total contributions, and longest streak generated from authenticated GitHub data.</desc>
   <rect width="720" height="220" rx="18" fill="#161b22" stroke="#30363d" />
-  <text x="32" y="44" fill="#f0f6fc" font-size="22" font-weight="700">Streak Snapshot</text><text x="688" y="44" fill="#8b949e" font-size="12" text-anchor="end">Updated 2026-04-24</text>
+  <text x="32" y="44" fill="#f0f6fc" font-size="22" font-weight="700">Streak Snapshot</text><text x="688" y="44" fill="#8b949e" font-size="12" text-anchor="end">Updated 2026-04-25</text>
   <line x1="227" y1="68" x2="227" y2="182" stroke="#30363d" />
   <line x1="447" y1="68" x2="447" y2="182" stroke="#30363d" />
   <text x="32" y="104" fill="#58a6ff" font-size="44" font-weight="800">0</text>
   <text x="32" y="132" fill="#f0f6fc" font-size="16" font-weight="700">No active streak</text>
   <text x="32" y="156" fill="#8b949e" font-size="12">No qualifying contribution on the latest tracked day</text>
 
-  <text x="250" y="104" fill="#58a6ff" font-size="44" font-weight="800">1599</text>
+  <text x="250" y="104" fill="#58a6ff" font-size="44" font-weight="800">1597</text>
   <text x="250" y="132" fill="#f0f6fc" font-size="16" font-weight="700">Total contributions</text>
   <text x="250" y="156" fill="#8b949e" font-size="12">Last 52 weeks</text>
 
-  <text x="470" y="104" fill="#58a6ff" font-size="44" font-weight="800">302</text>
+  <text x="470" y="104" fill="#58a6ff" font-size="44" font-weight="800">301</text>
   <text x="470" y="132" fill="#f0f6fc" font-size="16" font-weight="700">Longest streak</text>
-  <text x="470" y="156" fill="#8b949e" font-size="12">Apr 25, 2025 - Feb 20, 2026</text>
+  <text x="470" y="156" fill="#8b949e" font-size="12">Apr 26, 2025 - Feb 20, 2026</text>
 </svg>
