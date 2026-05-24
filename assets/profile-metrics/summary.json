@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-23T09:10:35.357764+05:00",
+  "generated_at": "2026-05-24T09:42:03.292451+05:00",
   "timezone": "Asia/Karachi",
-  "total_contributions": 2458,
-  "active_days": 344,
-  "average_per_active_day": 7.1,
+  "total_contributions": 2457,
+  "active_days": 343,
+  "average_per_active_day": 7.2,
   "average_per_week": 46.4,
   "busiest_day": {
     "date": "2026-05-18",
     "count": 90
   },
-  "current_length": 12,
-  "current_start": "2026-05-11",
-  "current_end": "2026-05-22",
-  "longest_length": 273,
-  "longest_start": "2025-05-24",
+  "current_length": 0,
+  "current_start": null,
+  "current_end": null,
+  "longest_length": 272,
+  "longest_start": "2025-05-25",
   "longest_end": "2026-02-20"
 }
